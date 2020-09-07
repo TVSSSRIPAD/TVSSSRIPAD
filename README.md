@@ -9,7 +9,7 @@ Get in touch on LinkedIn :
 </p>
 
 - 🔭 I’m currently working on **Full-Stack development (MERN Stack)**
-- 🌱 I’m currently exploring about **Best Practices of software development**
+- 🌱 I’m currently exploring about **Machine Learning**
 
 - 💬 Ask me about **React, NodeJs, Django, C++**
 - 📫 Reach me at **sripad.tvss@gmail.com**
