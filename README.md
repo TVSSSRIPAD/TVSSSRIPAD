@@ -11,7 +11,7 @@ Get in touch on LinkedIn :
 - 🔭 I’m currently working on **Full-Stack development (MERN Stack)**
 - 🌱 I’m currently exploring about **Machine Learning**
 
-- 💬 Ask me about **React, NodeJs, Django, C++**
+- 💬 Ask me about **React, NodeJs, C++**
 - 📫 Reach me at **sripad.tvss@gmail.com**
 <!--
 - 👯 I’m looking to collaborate on ...
