@@ -5,8 +5,12 @@
 
 <p align="center">
 Get in touch on 
-<a href="https://linkedin.com/in/sripad-t-v-s-s" target="blank">  LinkedIn  </a>
+<a href="https://linkedin.com/in/sripad-t-v-s-s" target="blank">  
+  <img   alt="Sripad's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />  
+</a>
 </p>
+
+ 
 
 - 🔭 I’m currently working on **Full-Stack development**
 - 📫 Reach me at **sripad.tvss@gmail.com**
