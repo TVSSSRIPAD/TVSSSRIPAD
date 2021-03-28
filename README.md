@@ -10,6 +10,8 @@ Get in touch on
 
 - 🔭 I’m currently working on **Full-Stack development**
 - 📫 Reach me at **sripad.tvss@gmail.com**
+
+![](https://komarev.com/ghpvc/?username=TVSSSRIPAD&color=brightgreen)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
