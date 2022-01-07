@@ -7,6 +7,9 @@
 Get in touch on 
 <a href="https://linkedin.com/in/sripad-t-v-s-s" target="blank">  
   <img   alt="Sripad's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />  
+</a> 
+<a href="https://twitter.com/_sripad_" target="blank">  
+  <img   alt="Sripad's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />  
 </a>
 </p>
 
